@@ -9,4 +9,4 @@ Technologies
 
     Spring Boot
 
-   Postgres
+    Postgres
